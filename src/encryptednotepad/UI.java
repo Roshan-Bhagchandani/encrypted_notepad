@@ -1,8 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package encryptednotepad;
 
 import java.awt.Dialog;
@@ -18,10 +14,7 @@ import javax.swing.JOptionPane;
 import javax.swing.filechooser.FileFilter;
 import javax.swing.filechooser.FileNameExtensionFilter;
 
-/**
- *
- * @author LAVESH
- */
+
 public class UI extends javax.swing.JFrame {
     
     StringBuffer content;
