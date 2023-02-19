@@ -1,0 +1,30 @@
+Week 1:-
+	we had started gathering the sources from which we can study about DES and also lookout for various IDE which can fits best for our project
+	
+week 2:-
+	 we had seen that many files in our system is in normal text format and doesnt secure if the person had bypassed the login also many college sets a common login so that student doesnt face any difficulty while login so we felt that we should develop some program that can secure these files on system level
+
+
+week 3:-
+	we felt that every system in our lab has been installed with JAVA thats why we had decided to choose java as a platform. As java provides platform independency our program can be shifted from one system to another using no time and no extra modifications
+
+week 4:-
+	fig:- DES ALGO
+
+	DES works by encrypting 64 bit of message using 64 bit key and generates 64 bit cipher message
+	this cipher message is stored on local machines which is in non readable HexaDecimal format
+	
+	this same cipher message is used in process of decryption along with same 64 bit key
+
+week 5:-
+	we had started implement DES and we had faced lot of issues as we have to convert whole data in hexaDecimal and Binary
+	we had learned several ways to convert the data
+
+week 6:- 
+	we had successfully developed the function that will encrypt the data
+	in this week we had developed the function that will decrypt the data as well as some frontend part
+
+week 7:- 
+	in this week we had linked our DES function with our frontend part and did some testing 
+	while testing we had came to know about the issues that are present in the program 
+	and tried to overcome it

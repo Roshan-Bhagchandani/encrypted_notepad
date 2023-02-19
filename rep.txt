@@ -1,0 +1,10 @@
+Problem Statement:-
+ 	 we had seen that many files in our system is in normal text format and doesnt secure if the person had bypassed the login also many college sets a common login so that student doesnt face any difficulty while login so we felt that we should develop some program that can secure these files on system level
+
+	we felt that every system in our lab has been installed with JAVA thats why we had decided to choose java as a platform. As java provides platform independency our program can be shifted from one system to another using no time and no extra modifications
+
+Soln:- So we had developed an Text Editor in which user can write the content and store it normally as well as in encrypted format depends on the choice of user
+Encryption Technique:Data Encryption Standard(DES)
+if user wants to save the content in the encrypted format then the user need to provide the 16 hexadecimal characters and the data will be encrypted on the basis of that key. Same Process is done at the time of decryption the user need to provide a 16 hexadecimal characters to retrive the content in the readable format
+
+NOTE: There is no mechanism to check whether the key is correct or not. This has been done intentionally to avoid bruteforce attack from the application
